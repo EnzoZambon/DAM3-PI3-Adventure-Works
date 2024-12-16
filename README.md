@@ -1,4 +1,4 @@
-# DAM3-PI3-Adventure-Works
+# VISUALIZANDO EL RENDIMIENTO DE ADVENTURE WORKS CYCLES (AWC) CON POWER BI
 
 Este proyecto se centra en la creación de un dashboard avanzado para Adventure Works Cycles, con el objetivo de proporcionar insights detallados sobre el negocio y facilitar la toma de decisiones estratégicas. 
 Se abarcó todo el proceso, desde el diseño inicial y la conceptualización mediante mockups, hasta la elaboración de métricas clave y el desarrollo de visualizaciones interactivas distribuidas en tres lienzos específicos dentro de Power BI.
